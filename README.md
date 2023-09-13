@@ -1,63 +1,33 @@
 # Multiple-variable-clustering-using-kmeans-on-spotify-data
 
-An implementation of K-Means clustering on Spotify data with multiple variables to group songs based on their audio features.
-Table of Contents
-
-    About
-    Demo
-    Getting Started
-        Prerequisites
-        Installation
-    Usage
-    Results
-    Contributing
-    License
-    Acknowledgments
-
 About
 
 This project demonstrates the application of K-Means clustering to group songs from the Spotify dataset based on their audio features such as danceability, energy, valence, and more. It provides a clear example of how to perform multiple-variable clustering using Python and Google colab.
-Demo
 
-You can see a live demo of this project here.
-
-Demo Screenshot
 Getting Started
 
 Follow these instructions to get a copy of the project up and running on your local machine.
-Prerequisites
 
 Make sure you have the following software installed:
 
     Python 3.x
-    Jupyter Notebook
-
+    Numpy
+    Pandas
+    Matplotlib
+    Seaborn
 
 Navigate to the project folder:
 
 bash
 
-cd your-repo-name
+cd your-repo-name : https://github.com/gpradeepkumar98?tab=repositories
 
-Install the required Python packages:
-
-bash
-
-    pip install -r requirements.txt
-
-Usage
-
-    Open the Jupyter Notebook:
-
-    bash
-
-    jupyter notebook
-
-    Navigate to the notebooks directory and open the Clustering_with_KMeans.ipynb notebook.
-
-    Follow the instructions in the notebook to load the Spotify data, preprocess it, and perform K-Means clustering.
+Install the required Python packages as mentioned above.
 
 Results
+Model 1 -> Considering 2 variables
+Model 2 -> Considering 2 variables
+Model 3 -> Considering more than 3 variables
 
 Describe the results of your clustering analysis here. Include any visualizations or insights gained from the analysis.
 Contributing
