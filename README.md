@@ -1,4 +1,8 @@
 # Multiple-variable-clustering-using-kmeans-on-spotify-data
+
+"Music Clustering with K-Means: Unveiling Audio Patterns in Spotify Data"
+
+
 This repository contains a Python script and Jupyter Notebook demonstrating multiple variable clustering using the K-Means clustering algorithm on Spotify dataset. The purpose of this project is to explore the application of K-Means clustering to group songs based on multiple audio features and discover interesting patterns within music data.
 Table of Contents
 
